@@ -1,6 +1,4 @@
-# Project_TopJapaneseCompanies
-
-Top Japanese Companies Analysis
+# Top Japanese Companies
 
 Introduction
 
