@@ -9,3 +9,10 @@ Features
 - Web scraping with Beautiful Soup
 - Data cleaning and structuring with Pandas
 - Data visualization with Matplotlib
+
+Objectives
+
+- Top 5 Companies by Profit
+- Top Industries in Japan
+  
+
